@@ -1,0 +1,16 @@
+{
+  "name": "Benefit Planner",
+  "short_name": "Benefit",
+  "description": "Osobní plánovač poradkyně – kalendář, klienti, finance, dokumenty.",
+  "lang": "cs",
+  "start_url": "./#menu",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1F2A23",
+  "theme_color": "#2F5D3A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
